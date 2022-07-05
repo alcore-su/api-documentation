@@ -15,5 +15,5 @@
 | ent  | C_BaseEntity\* | Pointer to entity |
 
 ```lua
-local player = entity_list.get_client_entity(index: number or netvar)
+local player = entity_list.get_client_entity(1)
 ```
