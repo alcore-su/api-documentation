@@ -1,5 +1,24 @@
-# Useful information
+![image](https://user-images.githubusercontent.com/99554784/177414288-2fd19361-7d70-4fdf-ace3-91083deda508.png)
 
-## Libraries
+# Introduction
 
-- [LuaJIT](https://github.com/LuaJIT/LuaJIT) **2.0.5**
+Welcome, dear user. We are glad to see you here. This page presents the lua documentation of [alcore.su](https://vk.com/alcoresu)
+
+Scripts are stored on your disk C: / `C:/alcore/scripts`
+
+Scripts are editable for any editor, one of them - [VSCode](https://code.visualstudio.com/)
+
+# Useful Information
+
+ ## Libraries / Aspects
+
+ - [LuaJIT](https://github.com/LuaJIT/LuaJIT) **2.0.5**
+ - [FFI](https://luajit.org/ext_ffi.html)
+
+# Bug / Reports
+
+If you found a mistake in documentation, feel free to contact us:
+
+- **[Discord](https://discord.gg/ryVq2t2RCV)**
+- **[VK](https://vk.com/alcoresu)**
+- **For individual requests - @s1zeq**
