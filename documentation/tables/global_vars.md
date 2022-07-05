@@ -1,4 +1,4 @@
-# global vars
+# global_vars
 
 ## Fields:
 
