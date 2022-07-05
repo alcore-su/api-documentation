@@ -1,7 +1,5 @@
 # entity_list
 
-## Functions
-
 ## get_client_entity
 
 ### Parameters:
