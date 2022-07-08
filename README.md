@@ -2,13 +2,7 @@
 
 # Introduction
 
-Welcome, dear user. We are glad to see you here. This page presents the lua documentation of [alcore.su](https://vk.com/alcoresu)
-
-Scripts are stored on your disk C: / `C:/alcore/scripts`
-
-Scripts are editable for any editor, one of them - [VSCode](https://code.visualstudio.com/)
-
-# Useful Information
+**Welcome, dear user. We are glad to see you here. This page presents the lua documentation of [alcore.su](https://vk.com/alcoresu)**
 
  ## Libraries / Aspects
 
@@ -17,8 +11,8 @@ Scripts are editable for any editor, one of them - [VSCode](https://code.visuals
 
 # Bug / Reports
 
-If you found a mistake in documentation, feel free to contact us:
+*If you found a mistake in documentation, feel free to contact us:*
 
 - **[Discord](https://discord.gg/ryVq2t2RCV)**
 - **[VK](https://vk.com/alcoresu)**
-- **For individual requests - @s1zeq**
+- **For individual requests - [@s1zeq (telegram)](https://t.me/s1zeq)**
