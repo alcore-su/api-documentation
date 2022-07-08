@@ -9,7 +9,7 @@
  - [LuaJIT](https://github.com/LuaJIT/LuaJIT) **2.0.5**
  - [FFI](https://luajit.org/ext_ffi.html)
 
-# Bug / Reports
+## Bug / Reports
 
 *If you found a mistake in documentation, feel free to contact us:*
 
